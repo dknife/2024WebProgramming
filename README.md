@@ -1,5 +1,9 @@
 [수업전체](https://github.com/dknife/dknife.github.io/wiki/Lecture_Homepage)
 
+강사: 강영민 교수 (게임공학과 / 게임그래픽학과)
+
+연락처: young.min.kang @ gmail.com / ymkang @ tu.ac.kr
+
 # 2024WebProgramming
 
 [수업 사전 설문조사](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__fVSsTlUMUM2RE04NUpJU1QyNzREMkk1QlJYODVKVi4u)
