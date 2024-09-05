@@ -4,6 +4,8 @@
 
 연락처: young.min.kang @ gmail.com / ymkang @ tu.ac.kr
 
+전화: 051-629-1253 (학과사무실: 629-1241)
+
 # 2024WebProgramming
 
 [수업 사전 설문조사](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__fVSsTlUMUM2RE04NUpJU1QyNzREMkk1QlJYODVKVi4u)
