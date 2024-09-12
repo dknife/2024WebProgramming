@@ -35,3 +35,4 @@
 #### 실습 
 
 [실습 1-1 첫번째 HTML](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex01/01_htmlStart.html)
+[실습 1-2 ChatGPT에게 부탁한 웹 문서](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex01/02_FancyAndComplex.html)
