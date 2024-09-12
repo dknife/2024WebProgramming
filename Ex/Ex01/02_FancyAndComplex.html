@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>아름다운 웹페이지</title>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: Arial, sans-serif;
+            color: #fff;
+            background: #000;
+            animation: backgroundChange 10s infinite alternate;
+        }
+
+        @keyframes backgroundChange {
+            0% { background-color: #ff7e5f; }
+            25% { background-color: #feb47b; }
+            50% { background-color: #6a11cb; }
+            75% { background-color: #2575fc; }
+            100% { background-color: #2af598; }
+        }
+
+        .container {
+            text-align: center;
+        }
+
+        .name {
+            font-size: 3em;
+            font-weight: bold;
+            color: #00f; /* 이름의 색상 */
+        }
+
+        a {
+            text-decoration: none;
+            color: #fff;
+            font-size: 1.5em;
+            background-color: #007bff;
+            padding: 10px 20px;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        a:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="name">강영민</div>
+        <a href="https://www.google.com" target="_blank">구글로 가기</a>
+    </div>
+</body>
+</html>
