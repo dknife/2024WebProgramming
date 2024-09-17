@@ -41,4 +41,4 @@
 
 ### 강의 2 - HTML 문법의 이해와 실습
 
-[강의 2 HTML5 이해]()
+[강의 2 HTML5 이해](https://github.com/dknife/2024WebProgramming/blob/main/LN/%EA%B0%95%EC%9D%98%202%20HTML%20Tags.pdf)
