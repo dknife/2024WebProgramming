@@ -43,6 +43,8 @@
 
 [강의 2 HTML5 이해](https://github.com/dknife/2024WebProgramming/blob/main/LN/%EA%B0%95%EC%9D%98%202%20HTML%20Tags.pdf)
 
+#### 실습 
+
 [실습 2-1 HTML 태그 시작](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex02/02_HTML_Start.html)
 
 [실습 2-2 HTML 태그 연습](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex02/02_02_HTML_tags.html)
