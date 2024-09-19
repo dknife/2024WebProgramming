@@ -51,3 +51,4 @@
 
 [실습 2-3 다양한 태그 연습](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex02/02_03_HTML_various_tags.html)
 
+[실습 2-4 목록 만들기](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex02/02_04_lists.html)
