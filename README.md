@@ -49,5 +49,5 @@
 
 [실습 2-2 HTML 태그 연습](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex02/02_02_HTML_tags.html)
 
-
+[실습 2-3 다양한 태그 연습](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex02/02_03_HTML_various_tags.html)
 
