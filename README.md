@@ -52,3 +52,9 @@
 [실습 2-3 다양한 태그 연습](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex02/02_03_HTML_various_tags.html)
 
 [실습 2-4 목록과 표 만들기](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex02/02_04_lists.html)
+
+### 강의 3 - 시맨틱 태그 / 링크와 멀티미디어
+
+[강의 3-1차시 시맨틱 태그]
+
+[강의 3-1차시 링크와 멀티미디어]
