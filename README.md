@@ -67,4 +67,6 @@
 
 [실습 3-3 Semantic 태그와 스타일](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex03/03_01_SemanticTagsStyles.html)
 
-[실습 3-4 기린 페이지도 만들어 보자]()
+[실습 3-4 기린 페이지도 만들어 보자](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex03/03_03_SemanticTagsGiraffe.html)
+
+[실습 3-5 스타일 공유하기]
