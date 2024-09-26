@@ -70,3 +70,7 @@
 [실습 3-4 기린 페이지도 만들어 보자](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex03/03_03_SemanticTagsGiraffe.html)
 
 [실습 3-5 스타일 공유하기]
+
+[코끼리](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex03/03_05_Elephant.html)
+
+[기린](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex03/03_05_Giraffe.html)
