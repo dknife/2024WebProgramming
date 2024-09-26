@@ -53,7 +53,7 @@
 
 [실습 2-4 목록과 표 만들기](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex02/02_04_lists.html)
 
-### 강의 3 - 시맨틱 태그 / 링크와 멀티미디어
+### 강의 3 - 시맨틱 태그
 
 [강의 3-1차시 시맨틱 태그](https://github.com/dknife/2024WebProgramming/raw/main/LN/%EA%B5%90%EC%96%91%20%EC%9B%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B0%95%EC%9D%98%EB%85%B8%ED%8A%B8%203-1%20HTML%20Semantic%20Tags.pdf)
 
@@ -71,6 +71,5 @@
 
 [실습 3-5 스타일 공유하기]
 
-[코끼리](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex03/03_05_Elephant.html)
-
-[기린](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex03/03_05_Giraffe.html)
+- [코끼리](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex03/03_05_Elephant.html)
+- [기린](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex03/03_05_Giraffe.html)
