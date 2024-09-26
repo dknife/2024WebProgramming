@@ -64,3 +64,5 @@
 [실습 3-1 HTML Tags 리뷰](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex03/03_00_BasicHTML.html)
 
 [실습 3-2 HTML Semantic Tags](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex03/03_01_SemanticTags.html)
+
+[실습 3-3 Semantic 태그와 스타일](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex03/03_01_SemanticTagsStyles.html)
