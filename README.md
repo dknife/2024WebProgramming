@@ -84,7 +84,7 @@
    * [파일 1](https://github.com/dknife/2024WebProgramming/blob/main/Ex/04_LinksAndMultimedia/0401_linkTest.html)
    * [파일 2](https://github.com/dknife/2024WebProgramming/blob/main/Ex/04_LinksAndMultimedia/0401_linkTest2.html)
 
-[실습 4-2 장문의 홈페이지]
+[실습 4-2 장문의 홈페이지](https://github.com/dknife/2024WebProgramming/blob/main/Ex/04_LinksAndMultimedia/0402_long.html)
 
 ##### 미디어 파일들
 
