@@ -80,6 +80,8 @@
 
 ##### 미디어 파일들
 
+[장문 텍스트]()
+
 [이미지](https://github.com/dknife/2023Web/raw/main/ExCodes/Lab03_media/tu.jpg)
 
 [음향](https://github.com/dknife/2023Web/raw/main/ExCodes/Lab03_media/pianoloop.wav)
