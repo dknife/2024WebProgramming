@@ -80,7 +80,7 @@
 
 ##### 미디어 파일들
 
-[장문 텍스트]()
+[장문 텍스트](https://github.com/dknife/2024WebProgramming/blob/main/Ex/longText.txt)
 
 [이미지](https://github.com/dknife/2023Web/raw/main/ExCodes/Lab03_media/tu.jpg)
 
