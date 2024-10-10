@@ -86,6 +86,8 @@
 
 [실습 4-2 장문의 홈페이지](https://github.com/dknife/2024WebProgramming/blob/main/Ex/04_LinksAndMultimedia/0402_long.html)
 
+[실습 4-3 장문의 홈페이지에 다양한 미디어 삽입]()
+
 ##### 미디어 파일들
 
 [장문 텍스트](https://github.com/dknife/2024WebProgramming/blob/main/Ex/longText.txt)
