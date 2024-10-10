@@ -78,9 +78,12 @@
 [강의 4 링크와 멀티미디어](https://github.com/dknife/2024WebProgramming/raw/main/LN/%EA%B5%90%EC%96%91%20%EC%9B%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B0%95%EC%9D%98%EB%85%B8%ED%8A%B8%203-2%20Links%20and%20Multimedia.pdf)
 
 #### 실습
+
 [실습 4-1 간단한 링크 테스트]
-   * [파일 1]()
-   * [파일 2]()
+
+   * [파일 1](https://github.com/dknife/2024WebProgramming/blob/main/Ex/04_LinksAndMultimedia/0401_linkTest.html)
+   * [파일 2](https://github.com/dknife/2024WebProgramming/blob/main/Ex/04_LinksAndMultimedia/0401_linkTest2.html)
+   * 
 ##### 미디어 파일들
 
 [장문 텍스트](https://github.com/dknife/2024WebProgramming/blob/main/Ex/longText.txt)
