@@ -1,0 +1,65 @@
+*******************
+myGoodStyle.css
+*******************
+body {background-color: lightgreen;}
+h3 {color: red; font-style: italic;}
+p {color: blue; font-size: 9pt;}
+strong {color: black; font-style: bold;}
+span {color:yellow;}
+.term {color:blue;}
+#keyword {color: black; font-style:italic;}
+
+
+*******************
+0503_CSS_import.html
+*******************
+<html>
+<head>
+	<style>
+		@import "myGoodStyle.css";
+	</style>
+
+</head>
+<body>
+	<h3>Style Sheet 이해하기</h3>
+	<p>이 예제는 <strong>CSS</strong>의 개념을 설명합니다</p>
+	<p>이것은 <span>예제</span>입니다.</p>
+
+	<div style="font-style: italic;">이것은 새로운 문단입니다</div>
+	<div style="color: red;">이것은 두번째 새로운 문단입니다</div>
+
+	<div><span class='term'>축구</span>는 두 팀이 <span class='term'>공</span>을 사용하여 상대방의 </span class='term'>골대</span>에 <span class='term'>공</span>을 넣어 <span class='term'>점수</span>를 얻는 <span>스포츠</span>입니다. 각 팀은 11명의 <span>선수</span>로 구성되며, 주된 목표는 상대방보다 더 많은 골을 넣는 것입니다. <span>경기</span>는 일반적으로 90분 동안 진행되며, 45분씩 두 개의 <span class='term'>하프타임</span>으로 나누어집니다. 경기 중에는 손을 제외한 다른 신체 부위로 공을 다룰 수 있으며, <span class='term'>골키퍼</span>는 손을 사용해 공을 막을 수 있는 유일한 선수입니다. 축구는 전 세계적으로 가장 인기 있는 스포츠로, <span class='term'>FIFA 월드컵</span>과 같은 대형 국제 대회가 대표적인 예시입니다. <span>축구</span>는 신체적인 능력뿐만 아니라 <span id='keyword'>전략</span>, <span id='keyword'>팀워크</span>, <span id='keyword'>기술</span> 등 다양한 요소가 중요한 역할을 합니다.</div>
+</body>
+</html>
+
+*******************
+0503_CSS_import2.html
+*******************
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample HTML Document</title>
+    <style>
+        @import "myGoodStyle.css";
+    </style>
+</head>
+<body>
+
+    <h3>Welcome to My Web Page</h3>
+
+    <div>
+        <p>This is a paragraph inside a <strong>div</strong> element.</p>
+    </div>
+
+    <p><span style="color: blue;">This is a paragraph with a colored span element inside it.</span></p>
+
+    <div>
+        <h3>Subheading Inside a Div</h3>
+        <p>Another paragraph inside a different <span style="font-weight: bold;">div</span>.</p>
+    </div>
+
+</body>
+</html>
