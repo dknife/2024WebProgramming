@@ -105,3 +105,5 @@
 [실습 5-1 간단한 CSS예제](https://github.com/dknife/2024WebProgramming/blob/main/Ex/05_CSS/0501_CSS_start.html)
 
 [실습 5-2 부분적으로 스타일 적용하기](https://github.com/dknife/2024WebProgramming/blob/main/Ex/05_CSS/0502_CSS_partial.html)
+
+[실습 5-3 CSS 임포트](https://github.com/dknife/2024WebProgramming/blob/main/Ex/05_CSS/CSS_import_example)
