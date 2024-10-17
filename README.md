@@ -110,4 +110,4 @@
 
 [실습 5-4 시맨틱 태그 페이지](https://github.com/dknife/2024WebProgramming/blob/main/Ex/05_CSS/0504_SemanticPage.html)
 
-[실습 5-5 시맨틱 태그 페이지에 적용할 스타일]()
+[실습 5-5 시맨틱 태그 페이지에 적용할 스타일](https://github.com/dknife/2024WebProgramming/blob/main/Ex/05_CSS/myStyle.css)
