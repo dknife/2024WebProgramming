@@ -103,3 +103,5 @@
 [강의 5 - Cascading Style Sheet](https://github.com/dknife/2024WebProgramming/raw/main/LN/%EA%B5%90%EC%96%91%20%EC%9B%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B0%95%EC%9D%98%EB%85%B8%ED%8A%B8%205%20CSS.pdf)
 
 [실습 5-1 간단한 CSS예제](https://github.com/dknife/2024WebProgramming/blob/main/Ex/05_CSS/0501_CSS_start.html)
+
+[실습 5-2 부분적으로 스타일 적용하기](https://github.com/dknife/2024WebProgramming/blob/main/Ex/05_CSS/0502_CSS_partial.html)
