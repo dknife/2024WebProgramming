@@ -12,6 +12,9 @@
 
 [수업 사전 설문조사 결과](https://forms.office.com/Pages/DesignPageV2.aspx?origin=NeoPortalPage&lang=ko-KR&subpage=design&id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__fVSsTlUMUM2RE04NUpJU1QyNzREMkk1QlJYODVKVi4u&analysis=true)
 
+# 중간고사
+[중간고사 문제지](https://forms.office.com/r/0frUEvNc8Q)
+
 ## 교재
 
 주교재: 쉽게 배우는 HTML5 웹프로그래밍 입문 / 임순범, 박희민 / 생능출판
