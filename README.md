@@ -131,4 +131,6 @@
 
 [실습 6-6 position 설정 변경](https://github.com/dknife/2024WebProgramming/blob/main/Ex/06_CSSAdvanced/0606_position.html)
 
-[실습 6-7 float 객체(https://github.com/dknife/2024WebProgramming/blob/main/Ex/06_CSSAdvanced/0607_float.html)
+[실습 6-7 float 객체](https://github.com/dknife/2024WebProgramming/blob/main/Ex/06_CSSAdvanced/0607_float.html)
+
+[실습 6-8 박스를 넘치는 콘텐츠](https://github.com/dknife/2024WebProgramming/blob/main/Ex/06_CSSAdvanced/0608_overflow.html)
