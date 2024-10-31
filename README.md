@@ -125,4 +125,4 @@
 
 [실습 6-3 block - inline](https://github.com/dknife/2024WebProgramming/blob/main/Ex/06_CSSAdvanced/0603_block_inline.html)
 
-[실습 6-3 display 속성]()
+[실습 6-3 display 속성](https://github.com/dknife/2024WebProgramming/blob/main/Ex/06_CSSAdvanced/0604_flex.html)
