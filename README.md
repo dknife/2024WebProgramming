@@ -120,4 +120,5 @@
 [강의 6 - CSS Advanced](https://github.com/dknife/2024WebProgramming/raw/main/LN/%EA%B5%90%EC%96%91%20%EC%9B%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B0%95%EC%9D%98%EB%85%B8%ED%8A%B8%206%20CSS%20Advanced.pdf)
 
 [실습 6-1 기본 HTML](https://github.com/dknife/2024WebProgramming/blob/main/Ex/06_CSSAdvanced/0601_basic.html)
+
 [실습 6-2 기본 HTML 각 요소 박스모델 제어](https://github.com/dknife/2024WebProgramming/blob/main/Ex/06_CSSAdvanced/0602_basicBoxModel.html)
