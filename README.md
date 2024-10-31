@@ -122,3 +122,7 @@
 [실습 6-1 기본 HTML](https://github.com/dknife/2024WebProgramming/blob/main/Ex/06_CSSAdvanced/0601_basic.html)
 
 [실습 6-2 기본 HTML 각 요소 박스모델 제어](https://github.com/dknife/2024WebProgramming/blob/main/Ex/06_CSSAdvanced/0602_basicBoxModel.html)
+
+[실습 6-3 block - inline]()
+
+[실습 6-3 display 속성]()
