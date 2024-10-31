@@ -130,3 +130,5 @@
 [실습 6-5 layout 변경을 위한 기본 코드](https://github.com/dknife/2024WebProgramming/blob/main/Ex/06_CSSAdvanced/0605_layout.html)
 
 [실습 6-6 position 설정 변경](https://github.com/dknife/2024WebProgramming/blob/main/Ex/06_CSSAdvanced/0606_position.html)
+
+[실습 6-7 float 객체(https://github.com/dknife/2024WebProgramming/blob/main/Ex/06_CSSAdvanced/0607_float.html)
