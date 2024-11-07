@@ -146,3 +146,5 @@
 [실습 7-1 폼의 동작](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex07_Forms/0701_formAction.html)
 
 [실습 7-2 다양한 폼 입력 요소](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex07_Forms/0702_variousFormInput.html)
+
+[실습 7-3 옵션들 선택](https://github.com/dknife/2024WebProgramming/tree/main/Ex/Ex07_Forms)
