@@ -137,7 +137,7 @@
 
 ---
 
-[실습 6-9 전환효과]()
+[실습 6-9 전환효과](https://github.com/dknife/2024WebProgramming/blob/main/Ex/06_CSSAdvanced/0609_transition.html)
 
 ### 강의 7 Forms
 
