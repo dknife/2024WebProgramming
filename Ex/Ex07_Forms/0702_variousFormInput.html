@@ -1,0 +1,36 @@
+<html>
+	<head>
+		<title>Forms</title>
+	</head>
+	<body>
+		<h1>Form</h1>
+		<form>
+			<input type='text' id='id_input' name='id' value='ID'>
+			<br>
+			<input type='password' name='pwd' value='password'>
+			<hr>
+			<p>요청사항</p>
+			<textarea name="comment" id='request' cols='40' rows='5'>요청사항을 입력하세요</textarea>
+			<hr>
+			<button type='button' onclick='displayMessage()'>제출하기</button>
+
+		</form>
+
+		<div id='output'>
+
+		</div>
+
+		<script>
+			function displayMessage() {
+				id = document.getElementById('id_input').value;
+				request_text = document.getElementById('request').value;
+
+				outputArea = document.getElementById('output');
+				outputArea.innerText = id + '님의 의견이 접수되었습니다: '
+				outputArea.innerText = outputArea.innerText + request_text;
+
+			}
+		</script>
+
+	</body>
+</html>
