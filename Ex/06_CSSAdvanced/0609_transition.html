@@ -1,0 +1,33 @@
+<html>
+
+<head>
+	<style>
+		#enlarge:hover { border: thick double blue; 
+			padding: 10px;
+			background-color: yellow;
+			font-size: xx-large;
+			transition: font-size 8s, background-color 8s;
+		}
+		#enlarge { 
+			background-color: red;	
+		}
+		#logo_img {
+			position: absolute;
+			top: 10px; right: 50px;
+			width: 100px; 
+		}
+		#logo_img:hover {
+			border: thin dotted red;
+			width: 200px;
+			transition: width 4s;
+		}
+	</style>
+</head>
+
+<body>
+	<h3>이것은 <span id='enlarge'>전환효과</span> 연습입니다.</h3>
+	<img src='./html5.png' id='logo_img' width=200>
+	<p>이것은 마우스 움직임에 따라 변화하는 문서입니다.</p>
+
+</body>
+</html>
