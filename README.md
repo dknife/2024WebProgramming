@@ -144,3 +144,5 @@
 [강의 7 Form](https://github.com/dknife/2024WebProgramming/raw/main/LN/%EA%B5%90%EC%96%91%20%EC%9B%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B0%95%EC%9D%98%EB%85%B8%ED%8A%B8%207%20Form.pdf)
 
 [실습 7-1 폼의 동작](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex07_Forms/0701_formAction.html)
+
+[실습 7-2 다양한 폼 입력 요소](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex07_Forms/0702_variousFormInput.html)
