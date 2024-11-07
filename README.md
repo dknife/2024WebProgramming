@@ -135,6 +135,11 @@
 
 [실습 6-8 박스를 넘치는 콘텐츠](https://github.com/dknife/2024WebProgramming/blob/main/Ex/06_CSSAdvanced/0608_overflow.html)
 
+---
+
+[실습 6-9 전환효과]()
+
 ### 강의 7 Forms
 
 [강의 7 Form](https://github.com/dknife/2024WebProgramming/raw/main/LN/%EA%B5%90%EC%96%91%20%EC%9B%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B0%95%EC%9D%98%EB%85%B8%ED%8A%B8%207%20Form.pdf)
+
