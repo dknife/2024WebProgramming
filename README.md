@@ -158,3 +158,5 @@
 [HTML](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex07_Forms/0705_HTML_CSS_JS_Project.html)
 
 [SCRIPT: script.js](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex07_Forms/script.js)
+
+[Style Sheet: style.cs](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex07_Forms/style.css)
