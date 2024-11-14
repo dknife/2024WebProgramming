@@ -159,4 +159,4 @@
 
 [SCRIPT: script.js](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex07_Forms/script.js)
 
-[Style Sheet: style.cs](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex07_Forms/style.css)
+[Style Sheet: style.css](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex07_Forms/style.css)
