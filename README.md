@@ -154,3 +154,5 @@
 [실습 7-4 Forms Inputs](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex07_Forms/0704_FormTest.html)
 
 [프로젝트]
+
+[HTML](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex07_Forms/0705_HTML_CSS_JS_Project.html)
