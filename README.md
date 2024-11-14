@@ -151,4 +151,6 @@
 
 [실습 7-3 옵션들 선택](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex07_Forms/0703_options.html)
 
-[실습 7-4 Forms Inputs](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex07_Forms/0704_FormTest)
+[실습 7-4 Forms Inputs](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex07_Forms/0704_FormTest.html)
+
+[프로젝트]
