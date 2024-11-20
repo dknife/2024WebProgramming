@@ -160,3 +160,7 @@
 [SCRIPT: script.js](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex07_Forms/script.js)
 
 [Style Sheet: style.css](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex07_Forms/style.css)
+
+### 강의 8 JavaScript
+
+[강의 8 JavaScript]()
