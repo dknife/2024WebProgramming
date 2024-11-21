@@ -167,7 +167,7 @@
 
 [실습 1 간단한 자바스크립트](https://github.com/dknife/2024WebProgramming/blob/main/Ex/08_JavaScript/08_01_JavaScript.html)
 
-[실습 2 입력을 받아 계산하는 자바스크립트]()
+[실습 2 입력을 받아 계산하는 자바스크립트](https://github.com/dknife/2024WebProgramming/blob/main/Ex/08_JavaScript/08_02_JavaScript_More.html)
 
 ##### 프로젝트 
 
