@@ -171,4 +171,9 @@
 
 ##### 프로젝트 
 
+[Calculator.html](https://github.com/dknife/2024WebProgramming/blob/main/Ex/08_JavaScript/Calculator.html)
+
+[script.js](https://github.com/dknife/2024WebProgramming/blob/main/Ex/08_JavaScript/script.js)
+
+[style.css](https://github.com/dknife/2024WebProgramming/blob/main/Ex/08_JavaScript/style.css)
 
