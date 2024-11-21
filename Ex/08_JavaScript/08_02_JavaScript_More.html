@@ -1,0 +1,26 @@
+<html>
+<head>
+</head>
+
+<body>
+	<form onsubmit='return false;'>
+		<button onclick="do_something();">Do Something</button>
+	</form>
+	<div id='result'></div>
+	<script>
+		function do_something() {
+			var input = prompt("1부터 몇까지 더할까요?");
+			var sum = 0;
+			var current_val = 1;
+
+			while (current_val <= input) {
+				sum = sum + current_val;
+				current_val = current_val + 1;
+			}
+
+			document.getElementById('result').innerHTML = sum;
+		}
+	</script>
+	
+</body>
+</html>
