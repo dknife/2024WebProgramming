@@ -153,7 +153,7 @@
 
 [실습 7-4 Forms Inputs](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex07_Forms/0704_FormTest.html)
 
-[프로젝트]
+##### 프로젝트
 
 [HTML](https://github.com/dknife/2024WebProgramming/blob/main/Ex/Ex07_Forms/0705_HTML_CSS_JS_Project.html)
 
@@ -164,3 +164,11 @@
 ### 강의 8 JavaScript
 
 [강의 8 JavaScript](https://github.com/dknife/2024WebProgramming/raw/main/LN/%EA%B5%90%EC%96%91%20%EC%9B%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B0%95%EC%9D%98%EB%85%B8%ED%8A%B8%208%20JavaScript.pdf)
+
+[실습 1 간단한 자바스크립트]()
+
+[실습 2 입력을 받아 계산하는 자바스크립트]()
+
+##### 프로젝트 
+
+
