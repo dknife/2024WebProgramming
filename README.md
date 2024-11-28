@@ -177,7 +177,12 @@
 
 [style.css](https://github.com/dknife/2024WebProgramming/blob/main/Ex/08_JavaScript/style.css)
 
+###### 프로젝트 완성
+
+[계산기 웹사이트](https://github.com/dknife/2024WebProgramming/tree/main/Ex/Calculator)
 
 ### 강의 9 DOM
 
 [강의 9 DOM](https://github.com/dknife/2024WebProgramming/blob/main/LN/%EA%B5%90%EC%96%91%20%EC%9B%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B0%95%EC%9D%98%EB%85%B8%ED%8A%B8%209%20DOM.pdf)
+
+
