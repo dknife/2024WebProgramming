@@ -1,0 +1,31 @@
+<html>
+
+<head>
+	<script>
+		function newbutton() {
+			let btn = document.createElement('button');
+			btn.innerText = document.getElementById('button_name').value;
+			btn.onclick = remove_self;
+			document.getElementById('button_area').appendChild(btn);
+		}
+		function remove_self(event) {
+			target = event.target;
+			document.getElementById('button_area').removeChild(target);
+
+		}
+	</script>
+</head>
+
+
+<body>
+	<h3>DOM 객체의 생성 및 삭제</h3>
+	버튼을 생성해 보자<br>
+	생성된 버튼을 누르면 삭제되도록 하자.
+
+	<input id='button_name' type='text'><button onclick='newbutton();'>버튼 생성</button>
+
+	<div id='button_area' style='border: solid; height: 300px;'> </div>
+
+</body>
+
+</html>
