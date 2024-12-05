@@ -196,4 +196,11 @@
 
 [간단한 웹 서버](https://github.com/dknife/2024WebProgramming/blob/main/Ex/10_Nodejs/webserver.js)
 
-[간단한 웹 페이지]()
+[간단한 웹 페이지](https://github.com/dknife/2024WebProgramming/blob/main/Ex/10_Nodejs/index.html)
+
+1. node webserver.js 실행하여 서버가 동작하게 한다
+
+2. ipconfig를 실행하여 내 컴퓨터의 주소를 파악한다. 예시 210.111.111.111
+   
+3. 웹 브라우저를 통해 서버에 요청을 한다. http://210.111.111.111:3000/
+
