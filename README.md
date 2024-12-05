@@ -207,3 +207,7 @@
 ##### 실습 2 간단한 웹 서버 2 - 원하는 파일 접근 가능한 서버
 
 [간단한 웹 서버 2](https://github.com/dknife/2024WebProgramming/blob/main/Ex/10_Nodejs/webserver2.js)
+
+##### 웹 서비스 프로젝트: 계산기 / 달의 모양 알기
+
+[프로젝트 폴더](https://github.com/dknife/2024WebProgramming/tree/main/Ex/10_Nodejs)
