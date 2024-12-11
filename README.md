@@ -19,7 +19,7 @@
 
 # 모의고사
 
-[모의고사 문제지]()
+[모의고사 문제지](https://github.com/dknife/2024WebProgramming/blob/main/LN/2024_2%ED%95%99%EA%B8%B0_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.pdf)
 
 ## 교재
 
