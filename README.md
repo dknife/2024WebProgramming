@@ -17,6 +17,10 @@
 
 [중간고사 평가결과](https://github.com/dknife/2024WebProgramming/blob/main/LN/webprogramming_%EC%A4%91%EA%B0%84.png)
 
+# 모의고사
+
+[모의고사 문제지]()
+
 ## 교재
 
 주교재: 쉽게 배우는 HTML5 웹프로그래밍 입문 / 임순범, 박희민 / 생능출판
