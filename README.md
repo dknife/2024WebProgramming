@@ -21,6 +21,10 @@
 
 [모의고사 문제지](https://github.com/dknife/2024WebProgramming/blob/main/LN/2024_2%ED%95%99%EA%B8%B0_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.pdf)
 
+# 기말고사
+
+[기말고사 문제지](https://forms.office.com/r/zhGb1UEYqZ)
+
 ## 교재
 
 주교재: 쉽게 배우는 HTML5 웹프로그래밍 입문 / 임순범, 박희민 / 생능출판
