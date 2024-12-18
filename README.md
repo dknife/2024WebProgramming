@@ -23,7 +23,7 @@
 
 # 기말고사
 
-[기말고사 문제지](https://forms.office.com/r/zhGb1UEYqZ)
+[기말고사 문제지](https://forms.office.com/r/zhGb1UEYqZ) 2024.12.19 10:00 오픈
 
 ## 교재
 
